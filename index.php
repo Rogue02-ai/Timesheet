@@ -22,7 +22,7 @@ session_start();
         <center id='form-title'>University of Michigan <div></div> Login</center>
         <div class="login-form">
           <form class='form-group' method="post" action="">
-            <div class="row">
+            <div class="">
               <div class="form-group col-lg-6 col-xl-6 col-sm-6 col-xs-12">
                 <label class="control-label"></label>
                     <input type="text" class="form-control" placeholder="UMID" name="uname" id="input-userid-text" required />
